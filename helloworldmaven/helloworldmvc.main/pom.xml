@@ -38,10 +38,11 @@
   					</goals>
   					<configuration>
   						<transformers>
-  						<transformer implementation="org.apache.maven.plugins.shade.ressource.ManifestResourceTransformer">
+  						<transformer 
+  		implementation="org.apache.maven.plugins.shade.ressource.ManifestResourceTransformer">
+  		
   						<mainClass>helloworldmvc.main.Main</mainClass>
   						</transformer>
-  					
   						</transformers>
   					</configuration>
   				</execution>
