@@ -7,7 +7,7 @@ public class View implements IView {
 	@Override
 	public void displaysMessage(String message) {
 		// TODO Auto-generated method stub
-		System.out.println("Bonjour les Zeros");
+		//System.out.println("Bonjour les Zeros");
 	}
 
 }
