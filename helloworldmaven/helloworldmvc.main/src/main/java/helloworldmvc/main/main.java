@@ -12,7 +12,7 @@ public class main {
 		br.getHelloWorld();
 		View re = new View();
 		DAOHelloworld jb = new DAOHelloworld();
-		jb.toString();
+		//jb.toString();
 		//re.displaysMessage("hello World");
 	}
 

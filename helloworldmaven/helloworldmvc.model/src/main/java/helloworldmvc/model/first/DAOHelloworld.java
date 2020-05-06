@@ -16,7 +16,7 @@ public class DAOHelloworld {
 	 
 	 public DAOHelloworld() throws Exception {
 		// TODO Auto-generated constructor stub
-		// readFile();
+		 readFile();
 	}
 	 @Override
 	public String toString() {
